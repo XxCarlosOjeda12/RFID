@@ -1,0 +1,25 @@
+F:\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe.config
+F:\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe
+F:\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.pdb
+F:\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csprojResolveAssemblyReference.cache
+F:\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csproj.CoreCompileInputs.cache
+F:\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.exe
+F:\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.pdb
+F:\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\ZK_RFID105CSharp.dll
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe.config
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.pdb
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\bin\Debug\ZK_RFID105CSharp.dll
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csprojAssemblyReference.cache
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csproj.CoreCompileInputs.cache
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csproj.CopyComplete
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.exe
+F:\desarrollo\eventos\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.pdb
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.exe
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\bin\Debug\RFIDDesktop.pdb
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesk.DDF53C58.Up2Date
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.exe
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDesktop\RFIDDesktop\obj\Debug\RFIDDesktop.pdb

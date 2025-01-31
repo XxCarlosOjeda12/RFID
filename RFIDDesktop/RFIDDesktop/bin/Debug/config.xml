@@ -1,0 +1,5 @@
+<config>
+	<udp>5000</udp>
+	<rfid>COM3</rfid>
+	<cliente>10.1.0.44</cliente>
+</config>
