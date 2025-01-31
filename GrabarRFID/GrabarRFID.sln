@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabarRFID", "GrabarRFID\GrabarRFID.csproj", "{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Debug|x64.ActiveCfg = Debug|x64
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Debug|x64.Build.0 = Debug|x64
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Release|x64.ActiveCfg = Release|x64
+		{CBBD3AB0-2212-4F52-87AF-5E2A0F6B72AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60FD1D12-3128-4B06-96CB-8821C6DE117F}
+	EndGlobalSection
+EndGlobal

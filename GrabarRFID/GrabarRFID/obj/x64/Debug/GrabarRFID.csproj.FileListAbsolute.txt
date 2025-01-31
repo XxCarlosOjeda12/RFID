@@ -1,0 +1,24 @@
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.exe.config
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.exe
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.pdb
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\bin\x64\Debug\MySql.Data.dll
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\bin\x64\Debug\ZK_RFID105CSharp.dll
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csprojAssemblyReference.cache
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.Form1.resources
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.Properties.Resources.resources
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.GenerateResource.cache
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.CoreCompileInputs.cache
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.CopyComplete
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.exe
+F:\desarrollo\eventos\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.pdb
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.exe
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\bin\x64\Debug\GrabarRFID.pdb
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.Form1.resources
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.Properties.Resources.resources
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.GenerateResource.cache
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.csproj.Up2Date
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.exe
+C:\Users\Carlos Elias\Downloads\RFID\GrabarRFID\GrabarRFID\obj\x64\Debug\GrabarRFID.pdb
