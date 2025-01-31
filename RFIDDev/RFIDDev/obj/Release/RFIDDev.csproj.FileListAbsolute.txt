@@ -1,0 +1,10 @@
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\RFIDDev.exe.config
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\RFIDDev.exe
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\RFIDDev.pdb
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\Impinj.OctaneSdk.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\LLRP.Impinj.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Release\RRU1861CSharp.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Release\RFIDDev.csproj.CoreCompileInputs.cache
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Release\RFIDDev.exe
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Release\RFIDDev.pdb
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Release\RFIDDev.csprojResolveAssemblyReference.cache

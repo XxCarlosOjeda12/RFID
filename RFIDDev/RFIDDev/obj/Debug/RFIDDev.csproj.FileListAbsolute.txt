@@ -1,0 +1,33 @@
+F:\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csprojResolveAssemblyReference.cache
+F:\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csproj.CoreCompileInputs.cache
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe.config
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.pdb
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\Impinj.OctaneSdk.dll
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\LLRP.Impinj.dll
+F:\eventos\RFIDDev\RFIDDev\bin\Debug\RRU1861CSharp.dll
+F:\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.exe
+F:\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.pdb
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe.config
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\RFIDDev.pdb
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\Impinj.OctaneSdk.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\LLRP.Impinj.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\RRU1861CSharp.dll
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csprojResolveAssemblyReference.cache
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csproj.CoreCompileInputs.cache
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.exe
+F:\desarrollo\eventos\RFIDDev\RFIDDev\obj\Debug\RFIDDev.pdb
+F:\desarrollo\eventos\RFIDDev\RFIDDev\bin\Debug\LLRP.dll
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\obj\Debug\RFIDDev.exe
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\obj\Debug\RFIDDev.pdb
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\RFIDDev.exe
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\RFIDDev.pdb
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\LLRP.Impinj.dll
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\RRU1861CSharp.dll
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\bin\Debug\LLRP.dll
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\RFIDDev\RFIDDev\obj\Debug\RFIDDev.csproj.Up2Date
