@@ -1,0 +1,43 @@
+F:\eventos\Asistencia\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+F:\eventos\Asistencia\Asistencia\obj\Debug\Asistencia.csproj.CoreCompileInputs.cache
+F:\eventos\Asistencia\Asistencia\bin\Debug\Asistencia.exe.config
+F:\eventos\Asistencia\Asistencia\bin\Debug\Asistencia.exe
+F:\eventos\Asistencia\Asistencia\bin\Debug\Asistencia.pdb
+F:\eventos\Asistencia\Asistencia\bin\Debug\Impinj.OctaneSdk.dll
+F:\eventos\Asistencia\Asistencia\bin\Debug\LLRP.dll
+F:\eventos\Asistencia\Asistencia\bin\Debug\LLRP.Impinj.dll
+F:\eventos\Asistencia\Asistencia\bin\Debug\MySql.Data.dll
+F:\eventos\Asistencia\Asistencia\bin\Debug\RRU1861CSharp.dll
+F:\eventos\Asistencia\Asistencia\bin\Debug\MySql.Data.xml
+F:\eventos\Asistencia\Asistencia\obj\Debug\Asistencia.exe
+F:\eventos\Asistencia\Asistencia\obj\Debug\Asistencia.pdb
+F:\eventos\Asistencia2\Asistencia\bin\Debug\Asistencia.exe.config
+F:\eventos\Asistencia2\Asistencia\bin\Debug\Asistencia.exe
+F:\eventos\Asistencia2\Asistencia\bin\Debug\Asistencia.pdb
+F:\eventos\Asistencia2\Asistencia\bin\Debug\Impinj.OctaneSdk.dll
+F:\eventos\Asistencia2\Asistencia\bin\Debug\LLRP.Impinj.dll
+F:\eventos\Asistencia2\Asistencia\bin\Debug\MySql.Data.dll
+F:\eventos\Asistencia2\Asistencia\bin\Debug\RRU1861CSharp.dll
+F:\eventos\Asistencia2\Asistencia\bin\Debug\MySql.Data.xml
+F:\eventos\Asistencia2\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+F:\eventos\Asistencia2\Asistencia\obj\Debug\Asistencia.csproj.CoreCompileInputs.cache
+F:\eventos\Asistencia2\Asistencia\obj\Debug\Asistencia.exe
+F:\eventos\Asistencia2\Asistencia\obj\Debug\Asistencia.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Asistencia.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Asistencia.exe
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Asistencia.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\LLRP.Impinj.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\MySql.Data.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\RRU1861CSharp.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Renci.SshNet.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\Google.Protobuf.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\bin\Debug\MySql.Data.xml
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.csproj.Up2Date
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.exe
+C:\Users\Carlos Elias\Downloads\RFID\Asistencia2\Asistencia\obj\Debug\Asistencia.pdb

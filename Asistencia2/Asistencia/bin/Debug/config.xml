@@ -1,0 +1,8 @@
+<!--ubicacion 0 fuera, 1 dentro-->
+<!--tipo 0 impinj, 1 oppiot-->
+<config>
+	<sala>1</sala>
+	<rfid modelo="0" ubicacion="1">10.1.0.49</rfid>
+	<rfid modelo="1" ubicacion="0">10.1.0.51</rfid>
+	<bienvenida>10.1.0.100</bienvenida>
+</config>
