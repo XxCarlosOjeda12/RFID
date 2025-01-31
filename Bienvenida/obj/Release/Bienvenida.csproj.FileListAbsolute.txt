@@ -1,0 +1,61 @@
+F:\dev\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe.config
+F:\dev\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe
+F:\dev\Bienvenida\Bienvenida\bin\Release\Bienvenida.pdb
+F:\dev\Bienvenida\Bienvenida\bin\Release\Impinj.OctaneSdk.dll
+F:\dev\Bienvenida\Bienvenida\bin\Release\LLRP.Impinj.dll
+F:\dev\Bienvenida\Bienvenida\bin\Release\MySql.Data.dll
+F:\dev\Bienvenida\Bienvenida\bin\Release\LLRP.dll
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.Form1.resources
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.Properties.Resources.resources
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.GenerateResource.Cache
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.pdb
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.csprojResolveAssemblyReference.cache
+F:\dev\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.CoreCompileInputs.cache
+F:\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe.config
+F:\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe
+F:\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.pdb
+F:\eventos\Bienvenida\Bienvenida\bin\Release\MySql.Data.dll
+F:\eventos\Bienvenida\Bienvenida\bin\Release\RRU1861CSharp.dll
+F:\eventos\Bienvenida\Bienvenida\bin\Release\MySql.Data.xml
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.Form1.resources
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.Properties.Resources.resources
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.GenerateResource.Cache
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.CoreCompileInputs.cache
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.pdb
+F:\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csprojResolveAssemblyReference.cache
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe.config
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\Bienvenida.pdb
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\MySql.Data.dll
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\RRU1861CSharp.dll
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\Renci.SshNet.dll
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\Google.Protobuf.dll
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\BouncyCastle.Crypto.dll
+D:\desarrollo\eventos\Bienvenida\Bienvenida\bin\Release\MySql.Data.xml
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csprojAssemblyReference.cache
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe.config
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.Form1.resources
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.Properties.Resources.resources
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.GenerateResource.cache
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.CopyComplete
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe
+D:\desarrollo\eventos\Bienvenida\Bienvenida\obj\Release\Bienvenida.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\Bienvenida.exe
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\Bienvenida.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\Renci.SshNet.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\Google.Protobuf.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Release\MySql.Data.xml
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.Form1.resources
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.Properties.Resources.resources
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.GenerateResource.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.csproj.Up2Date
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.exe
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Release\Bienvenida.pdb

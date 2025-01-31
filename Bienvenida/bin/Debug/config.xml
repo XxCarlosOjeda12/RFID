@@ -1,0 +1,23 @@
+<pantalla>
+	<database host="localhost">eventosregistro</database>
+	<rfid modelo="xportal">10.1.0.49</rfid>
+	<imagenes>
+		<fondo>imagenes/fondo.png</fondo>
+		<retrato  directorio = "C:/Users/Carlos Elias/Downloads/RFID/Bienvenida/Bienvenida/bin/Debug/Fotos" x="90" y ="310" ancho="700" alto="700"/>
+	</imagenes>
+	<datos x="800" y ="550" espacio = "60" tamano = "60" fondo ="ffffff" color = "4bc3b4">
+		<fuente>
+			<regular>fuentes/Akrobat-Regular.otf</regular>
+			<negrita>fuentes/Akrobat-Bold.otf</negrita>
+		</fuente>
+		<parametro>NombreCompleto</parametro>
+<!--		<parametro>Puesto</parametro>-->
+<!--		<parametro>Compania</parametro>-->
+<!--		<parametro>Email</parametro>
+		<parametro>RFC</parametro> 
+		<parametro etiqueta="Marca">Marca</parametro>
+		<parametro etiqueta="Distribuidor">Dealer</parametro>-->
+<!--		<parametro etiqueta="Confirmación">Confirmacion</parametro>-->
+	</datos>
+	<tiempo>5</tiempo>
+</pantalla>

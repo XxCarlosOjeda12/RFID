@@ -1,0 +1,45 @@
+F:\dev\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe.config
+F:\dev\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe
+F:\dev\Bienvenida\Bienvenida\bin\Debug\Bienvenida.pdb
+F:\dev\Bienvenida\Bienvenida\bin\Debug\Impinj.OctaneSdk.dll
+F:\dev\Bienvenida\Bienvenida\bin\Debug\LLRP.Impinj.dll
+F:\dev\Bienvenida\Bienvenida\bin\Debug\MySql.Data.dll
+F:\dev\Bienvenida\Bienvenida\bin\Debug\LLRP.dll
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Form1.resources
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Properties.Resources.resources
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.GenerateResource.Cache
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.exe
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.pdb
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csprojResolveAssemblyReference.cache
+F:\dev\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.CoreCompileInputs.cache
+F:\dev\Bienvenida\Bienvenida\bin\Debug\MySql.Data.xml
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe.config
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\Bienvenida.pdb
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\MySql.Data.dll
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\RRU1861CSharp.dll
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\MySql.Data.xml
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Form1.resources
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Properties.Resources.resources
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.GenerateResource.Cache
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.CoreCompileInputs.cache
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.exe
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.pdb
+F:\eventos\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csprojResolveAssemblyReference.cache
+F:\eventos\Bienvenida\Bienvenida\bin\Debug\LLRP.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe.config
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\Bienvenida.exe
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\Bienvenida.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\LLRP.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.AssemblyReference.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Form1.resources
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.Properties.Resources.resources
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.GenerateResource.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.csproj.Up2Date
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.exe
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\obj\Debug\Bienvenida.pdb
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\System.Memory.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carlos Elias\Downloads\RFID\Bienvenida\Bienvenida\bin\Debug\System.Buffers.dll
